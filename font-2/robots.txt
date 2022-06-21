@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 Disallow:
-Sitemap: https://sinbad.dev/sinbad/font/sitemap/sitemap-index.xml
+Sitemap: https://sinbad.dev/sinbad/font-2/sitemap/sitemap-index.xml
 Host: https://sinbad.dev
