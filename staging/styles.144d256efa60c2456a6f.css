@@ -36,21 +36,7 @@ html {
     font-size: 62.5%;
 }
 
-.background-sand-1 {
-    background-color: var(--color-sand-1);
-}
-.background-sand-2 {
-    background-color: var(--color-sand-2);
-}
-.background-sand-3 {
-    background-color: var(--color-sand-3);
-}
-.background-sand-4 {
-    background-color: var(--color-sand-4);
-}
-.background-sand-5 {
-    background-color: var(--color-sand-5);
-}
+
 
 /* maven-pro-regular - latin */
 @font-face {
